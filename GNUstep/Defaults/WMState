@@ -1,0 +1,294 @@
+{
+  Dock = {
+    Applications800 = (
+      {
+        Forced = No;
+        Name = Logo.WMDock;
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,0";
+        Lock = No;
+        Command = "-";
+      },
+      {
+        Forced = No;
+        Name = asmon.asmon;
+        DropCommand = "asmon %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,6";
+        Lock = No;
+        PasteCommand = "asmon %s";
+        Command = asmon;
+      },
+      {
+        Forced = No;
+        Name = wmclock.WMClock;
+        DropCommand = "wmclock %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,1";
+        Lock = No;
+        PasteCommand = "wmclock %s";
+        Command = wmclock;
+      },
+      {
+        Forced = No;
+        Name = "wmweather+.DockApp";
+        DropCommand = "wmweather+ %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,2";
+        Lock = No;
+        PasteCommand = "wmweather+ %s";
+        Command = "wmweather+";
+      },
+      {
+        Forced = No;
+        Name = wmnd.wmnd;
+        DropCommand = "wmnd %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,5";
+        Lock = No;
+        PasteCommand = "wmnd %s";
+        Command = wmnd;
+      },
+      {
+        Forced = No;
+        Name = wmbubble.wmbubble;
+        DropCommand = "wmbubble %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,9";
+        Lock = No;
+        PasteCommand = "wmbubble %s";
+        Command = wmbubble;
+      },
+      {
+        Forced = No;
+        Name = wmcalc.wmcalc;
+        DropCommand = "wmcalc %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,4";
+        Lock = No;
+        PasteCommand = "wmcalc %s";
+        Command = wmcalc;
+      },
+      {
+        Forced = No;
+        Name = wmacpi.DockApp;
+        DropCommand = "wmacpi %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,7";
+        Lock = No;
+        PasteCommand = "wmacpi %s";
+        Command = wmacpi;
+      },
+      {
+        Forced = No;
+        Name = wmSolar.wmSolar;
+        DropCommand = "wmSolar %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,3";
+        Lock = No;
+        PasteCommand = "wmSolar %s";
+        Command = wmSolar;
+      },
+      {
+        Forced = No;
+        Name = wmomikuzi.DockApp;
+        DropCommand = "wmomikuzi %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,10";
+        Lock = No;
+        PasteCommand = "wmomikuzi %s";
+        Command = wmomikuzi;
+      },
+      {
+        Forced = No;
+        Name = wmix.wmix;
+        DropCommand = "wmix %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,8";
+        Lock = No;
+        PasteCommand = "wmix %s";
+        Command = wmix;
+      },
+      {
+        Forced = No;
+        Name = Thunar.Thunar;
+        DropCommand = "Thunar %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,11";
+        Lock = No;
+        PasteCommand = "Thunar %s";
+        Command = Thunar;
+      }
+    );
+    AutoRaiseLower = No;
+    Applications = (
+      {
+        Forced = No;
+        Name = Logo.WMDock;
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,0";
+        Lock = No;
+        Command = "-";
+      },
+      {
+        Forced = No;
+        Name = asmon.asmon;
+        DropCommand = "asmon %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,6";
+        Lock = No;
+        PasteCommand = "asmon %s";
+        Command = asmon;
+      },
+      {
+        Forced = No;
+        Name = wmclock.WMClock;
+        DropCommand = "wmclock %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,1";
+        Lock = No;
+        PasteCommand = "wmclock %s";
+        Command = wmclock;
+      },
+      {
+        Forced = No;
+        Name = "wmweather+.DockApp";
+        DropCommand = "wmweather+ %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,2";
+        Lock = No;
+        PasteCommand = "wmweather+ %s";
+        Command = "wmweather+";
+      },
+      {
+        Forced = No;
+        Name = wmnd.wmnd;
+        DropCommand = "wmnd %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,5";
+        Lock = No;
+        PasteCommand = "wmnd %s";
+        Command = wmnd;
+      },
+      {
+        Forced = No;
+        Name = wmbubble.wmbubble;
+        DropCommand = "wmbubble %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,9";
+        Lock = No;
+        PasteCommand = "wmbubble %s";
+        Command = wmbubble;
+      },
+      {
+        Forced = No;
+        Name = wmcalc.wmcalc;
+        DropCommand = "wmcalc %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,4";
+        Lock = No;
+        PasteCommand = "wmcalc %s";
+        Command = wmcalc;
+      },
+      {
+        Forced = No;
+        Name = wmacpi.DockApp;
+        DropCommand = "wmacpi %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,7";
+        Lock = No;
+        PasteCommand = "wmacpi %s";
+        Command = wmacpi;
+      },
+      {
+        Forced = No;
+        Name = wmSolar.wmSolar;
+        DropCommand = "wmSolar %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,3";
+        Lock = No;
+        PasteCommand = "wmSolar %s";
+        Command = wmSolar;
+      },
+      {
+        Forced = No;
+        Name = wmomikuzi.DockApp;
+        DropCommand = "wmomikuzi %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,10";
+        Lock = No;
+        PasteCommand = "wmomikuzi %s";
+        Command = wmomikuzi;
+      },
+      {
+        Forced = No;
+        Name = wmix.wmix;
+        DropCommand = "wmix %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,8";
+        Lock = No;
+        PasteCommand = "wmix %s";
+        Command = wmix;
+      },
+      {
+        Forced = No;
+        Name = Thunar.Thunar;
+        DropCommand = "Thunar %d";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,11";
+        Lock = No;
+        PasteCommand = "Thunar %s";
+        Command = Thunar;
+      }
+    );
+    Lowered = Yes;
+    Position = "1216,1";
+  };
+  Clip = {
+    Forced = No;
+    Name = Logo.WMClip;
+    BuggyApplication = No;
+    AutoLaunch = No;
+    Position = "0,0";
+    Lock = No;
+    Command = "-";
+  };
+  Drawers = ();
+  Workspaces = (
+    {
+      Clip = {
+        AutoRaiseLower = No;
+        AutoCollapse = No;
+        Applications = ();
+        Collapsed = Yes;
+        AutoAttractIcons = No;
+        Lowered = Yes;
+      };
+      Name = "Workspace 1";
+    }
+  );
+}

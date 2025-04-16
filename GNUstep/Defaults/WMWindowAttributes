@@ -1,0 +1,8 @@
+{
+  firefox.Firefox = {
+    Icon = firefox.Firefox.xpm;
+  };
+  Thunar.Thunar = {
+    Icon = Thunar.Thunar.xpm;
+  };
+}
